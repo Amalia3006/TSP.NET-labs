@@ -1,0 +1,156 @@
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\lab4_TSP_NET.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\lab4_TSP_NET.pdb
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\obj\Debug\lab4_TSP_NET.csprojAssemblyReference.cache
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\obj\Debug\lab4_TSP_NET.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\obj\Debug\lab4_TSP_NET.pdb
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\lab4_TSP_NET.dll.config
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\EntityFramework.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\System.Buffers.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\System.Memory.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\EntityFramework.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\System.Buffers.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\System.Memory.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\facultate an 3 sem 2\.Net\lab4_TSP_NET\obj\Debug\lab4_TSP_NET.csproj.CopyComplete
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\lab4_TSP_NET.dll.config
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\lab4_TSP_NET.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\lab4_TSP_NET.pdb
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\EntityFramework.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\System.Buffers.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\System.Memory.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\EntityFramework.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\System.Buffers.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\System.Memory.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\obj\Debug\lab4_TSP_NET.csprojAssemblyReference.cache
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\obj\Debug\lab4_TSP_NET.csproj.CopyComplete
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\obj\Debug\lab4_TSP_NET.dll
+C:\Users\Amalia\Desktop\New folder\lab4_TSP_NET\obj\Debug\lab4_TSP_NET.pdb
